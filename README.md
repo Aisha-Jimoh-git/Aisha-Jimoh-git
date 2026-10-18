@@ -2,7 +2,7 @@
 
 ### MSc Cybersecurity Student | Aspiring SOC Analyst | Security Monitoring & Threat Detection
 
-I'm currently pursuing an MSc in Cybersecurity at Southampton Solent University, building on my cybersecurity training and hands-on experience with security monitoring, SIEM tools, log analysis, and practical security labs.
+I'm currently pursuing an MSc in Cybersecurity, building on my cybersecurity training and hands-on experience with security monitoring, SIEM tools, log analysis, and practical security labs.
 
 My interests include Security Operations Centre (SOC) operations, threat detection, incident investigation, network security, and security automation. I'm passionate about understanding how systems work, identifying potential security threats, and developing practical skills to help protect digital environments.
 
